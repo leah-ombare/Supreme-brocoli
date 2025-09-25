@@ -1,0 +1,12 @@
+//a function  to determine odd or even
+function determiner (num){ 
+if(num%2==0){
+conole.log("$(num)is even");
+}
+else{
+    console.log("$(num)is odd");
+}
+ 
+}
+    
+
